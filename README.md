@@ -2,7 +2,7 @@
 
 <img src="Logo/pngtree___stay_home_to_protect_from_5341432_QmL_icon.ico"/>
 
-_Logo obtained from Pntree_
+_Logo obtained from [Pngtree](https://pngtree.com/)_
 
 ## Introduction
 This is a desktop application that I built for my own amusement.
