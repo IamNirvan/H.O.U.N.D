@@ -26,5 +26,3 @@ Standard functionality include:
 ## Requirements
 * Windows OS **(Windows 10 is recommended)**
 * Python **(Version 3 or above)**.
-
-Protected by Copyright &copy;
